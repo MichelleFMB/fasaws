@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Spring Microservices and Docker
 
 This example shows how to create a microservices architecture with Spring Boot and Spring Cloud. It also shows how to package each application in Docker containers and run them with Docker Compose.
@@ -62,3 +63,6 @@ Please post any questions as comments on this repo's [blog post](https://develop
 ## License
 
 Apache 2.0, see [LICENSE](LICENSE).
+=======
+# fasaws
+>>>>>>> d5e59d94b7944ea552202089a2bfd43fb21a4ad0
